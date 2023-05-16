@@ -1,12 +1,12 @@
 Package: tablebench
 Type: Package
-Title: What the Package Does (Title Case)
+Title: R package containing benchmarks for common table operations across various frameworks
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Jonathan Aron
+Maintainer: jonathan.aron94@gmail.com
+Description: Comparison of several leading frameworks/packages for performing
+    common table operations such as joining, aggregation and subsetting.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Suggests: 
